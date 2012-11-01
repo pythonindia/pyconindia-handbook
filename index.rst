@@ -21,9 +21,26 @@ There are some sections which will cut across all three types:
 * Important Dates
 
 
+Things to Do
+============
 
+	T= Day the Event starts
 
-
+	CFP Should start T - 90 days
+	Sponsorship
+	Media Management
+	Feedback
+	Schedule
+	Internet : T-2 days : Testing the link
+	Banners
+	Stationery
+	Volunteers
+	Website
+	Registration Desk
+	Chairs for the Talks
+	Booking the Venue T - 240 days
+	Managing Accounts
+ 
 Contents:
 
 .. toctree::
@@ -35,4 +52,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
