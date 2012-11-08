@@ -25,7 +25,7 @@ Things to Do
 ============
 
 	T= Day the Event starts
-
+          
 	CFP Should start T - 90 days
 	Sponsorship
 	Media Management
@@ -40,6 +40,13 @@ Things to Do
 	Chairs for the Talks
 	Booking the Venue T - 240 days
 	Managing Accounts
+
+	Bookig of the Venue: Venues for events of this magnitude has to be big , the big venues tend to get occupied early on , so the sooner the venue ids booked the better for the organizers. Pay an advance and block the three calendar days required once done announce it on the mailing list so that everyone is aware of what is happening.
+
+	Website : Adding content and development of the website is a constant work , this can be done by volunteers from remote locations too , ask for Volunteers on the mailing list and start giving responsibilities to what they would like to do .
+	
+		
+
  
 Contents:
 
