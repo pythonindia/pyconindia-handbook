@@ -10,9 +10,9 @@ There have been five editions of PyCon India already, this handbook aims to capt
 
 Braodly this handbook will categorized in three sections :
 
-* Pre-conference
-* Conference-Day
-* Post Conference
+* Pre-conference : Will list all tasks that need be taken care of before the confernece.
+* Conference-Day : Will list all tasks that need to be done on the conference days.
+* Post Conference: WIll list all tasks that needs to be taken care at the end of the conf.
 
 There are some sections which will cut across all three types:
 
