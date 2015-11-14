@@ -7,7 +7,7 @@ http://mail.python.org/pipermail/inpycon/2012-July/005375.html
 
 Contribution guidelines:
 --------
-- All the guidelines should be placed iniside guidelines directory.
+- All the guidelines should be placed inside guidelines directory.
 - Guidelines should contain high level steps, practices etc ...
 - When a new guideline is annexed, add a link under `Guidelines` section in this file.
 - While sending a pull request, add your name under `Acknowledgement` section.
