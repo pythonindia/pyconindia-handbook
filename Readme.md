@@ -27,3 +27,4 @@ Acknowledgement
 - [Konarkmodi](https://github.com/konarkmodi)
 - [Frysquare](https://github.com/frysquare)
 - [Kracekumar](https://kracekumar.com)
+- [Vanitha](https://github.com/pythonindia/junction/issues/created_by/vanishan)
