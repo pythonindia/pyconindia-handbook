@@ -17,6 +17,8 @@ Guidelines:
 ----------
 
 - [Reviewer guidelines](https://github.com/pythonindia/pyconindia-handbook/blob/master/guidelines/reviewer-guidelines.rst)
+- [Open space guidelines](https://github.com/pythonindia/pyconindia-handbook/blob/master/guidelines/openspace-guidelines.rst)
+
 
 Acknowledgement
 --------------
@@ -27,3 +29,4 @@ Acknowledgement
 - [Konarkmodi](https://github.com/konarkmodi)
 - [Frysquare](https://github.com/frysquare)
 - [Kracekumar](https://kracekumar.com)
+- [Shankisg](https://github.com/shankisg)
