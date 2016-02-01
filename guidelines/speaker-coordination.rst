@@ -31,7 +31,7 @@ One week before conf
 
 - The coordinator should make sure that the volunteers get to attend talks that they prefer and adjust the work force accordingly so that there are enough volunteers in an audi.
 - The speaker coordinator should contact the Volunteer coordinator and get the feedback form, if it is in paper.
-- Make Time card of 15 Minutes, 10 Minutes, 5 Minutes & Times Up.
+- Make Time card of 15 Minutes, 10 Minutes, 5 Minutes & Time is Up.
 
 One day before workshop
 --------------
@@ -43,8 +43,8 @@ Note for future coordinators
 ------------
 
 - Contact all the speakers for the day and run them through the drill.
-- First day of Talk, do note that DgpLUG team will have a meeting around 11:30 am. So make sure that there are enough volunteers in audis.
-- Allow participants to register for open space via mobile app.
+- Volunteers may step out for other sessions/meetup discussion. So make sure that there are enough volunteers in audis.
+- Direct interested participants to open space coordinator.
 - Keep a mini-display port to HDMI/VGA handy. If possible one for each audi.
 - Do NOT forget to collect all the Feedback Forms.
 
@@ -52,7 +52,7 @@ The Drill
 ----------
 
 - Speaker has to be present at the audi at least 10 minutes before the scheduled start time.
-- Time cards, 15 minutes, 10 minutes, 5 minutes, and Times Up card are to be adhered.
+- Time cards, 15 minutes, 10 minutes, 5 minutes, and Time is Up card are to be adhered.
 - If the speaker is unable to find/locate the Lead Speaker coordinator, (s)he can always locate the audi volunteers in the front row of the audi.
 
 
