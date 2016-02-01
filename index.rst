@@ -8,7 +8,7 @@ PyCon India Handbook
 
 There have been five editions of PyCon India already, this handbook aims to capture all crucial activites that are requried for planning / organizing / executing the conference.
 
-Braodly this handbook will categorized in three sections :
+Broadly this handbook will categorized in three sections :
 
 * Pre-conference : Will list all tasks that need be taken care of before the confernece.
 * Conference-Day : Will list all tasks that need to be done on the conference days.
