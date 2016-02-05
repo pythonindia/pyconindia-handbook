@@ -18,13 +18,13 @@ Three weeks before the conference
 
 - Divide the volunteers into different audis and make a list of all speakers in the respective audis.
 - Inform the volunteers to contact the respective Workshop Speakers requesting if there is any addition to the requisite already mentioned in the Proposal.
-- The additional requisite can contain steps to install packages xyz, etc.
+- Inform speaker to get flash drive with necessary materials (installer, dependencies) for the talk.
 - Request the Workshop Speakers for contact details, so that the workshop participants can contact them if there are any doubts.
 
 Two week before conf
 ----------------
 
-- Volunteers can go ahead and introduce the speaker to it's participants with the list of all requisites mentioned by the speaker.
+- Volunteers can go ahead and introduce the speaker to it's participants with the list of all requisites mentioned by the speaker, and also to bring Data Cards as WiFi connectivity can be intermittent.
 
 One week before conf
 ----------------
