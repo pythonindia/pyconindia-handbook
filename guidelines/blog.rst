@@ -1,4 +1,4 @@
-Blog post is one of the official way to make announcement about PyCon India. Starting from Call For Proposals til end of conference all the announcement are written as blog posts. 15 - 20 blog posts are written every year.
+Blog post is one of the official way to make announcement about PyCon India. Starting from Call For Proposals till end of conference all the announcements are written as blog posts. 15 - 20 blog posts are written every year.
 
 Guidelines
 ------
