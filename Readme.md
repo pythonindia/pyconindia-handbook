@@ -19,6 +19,7 @@ Guidelines:
 - [Reviewer guidelines](https://github.com/pythonindia/pyconindia-handbook/blob/master/guidelines/reviewer-guidelines.rst)
 - [Open space guidelines](https://github.com/pythonindia/pyconindia-handbook/blob/master/guidelines/openspace-guidelines.rst)
 - [Proposal review and coordination guidelines](https://github.com/pythonindia/pyconindia-handbook/blob/master/guidelines/talk-selection-and-coordination.rst)
+- [Blog](https://github.com/pythonindia/pyconindia-handbook/blob/master/guidelines/blog.rst)
 
 Acknowledgement
 --------------
