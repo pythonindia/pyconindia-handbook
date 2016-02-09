@@ -31,3 +31,4 @@ Acknowledgement
 - [Kracekumar](https://kracekumar.com)
 - [Shankisg](https://github.com/shankisg)
 - [Vanitha](https://github.com/pythonindia/junction/issues/created_by/vanishan)
+- [Tenzin](https://github.com/tenkunkyab)
