@@ -4,8 +4,7 @@ Role of Reviewers
 -----------------
 
 -  Reviewers are pillars for selecting quality talks. As a reviewer you
-   will be interacting with proposers through junction setup for CFP
-   (http://in.pycon.org/cfp/pycon-india-2015/proposals/)
+   will be interacting with proposers through [Junction instance of PyCon India](http://in.pycon.org/cfp/).
 -  Reviewers will be judging the proposal purely based on content.
 -  Reviewers should not give too much weightage to the past speaking experience
    of the speaker as PyCon India would like to encourage first time speakers.
