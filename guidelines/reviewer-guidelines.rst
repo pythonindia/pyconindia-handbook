@@ -7,9 +7,9 @@ Role of Reviewers
    will be interacting with proposers through junction setup for CFP
    (http://in.pycon.org/cfp/pycon-india-2015/proposals/)
 -  Reviewers will be judging the proposal purely based on content.
--  Reviewers shouldn't discriminate proposers based on previous
-   experience as first timers are allowed if the speaker has adequate
-   hands on experience on the topic.
+-  Reviewers should not give too much weightage to the past speaking experience
+   of the speaker as PyCon India would like to encourage first time speakers.
+   However, make sure the speaker is well qualified to give a talk on that topic.
 -  Reviewers are recommended to provide feedback from the early stage of
    submission to help improve the quality of talks and ease the
    selection of final list of talks.
