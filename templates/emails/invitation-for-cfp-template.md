@@ -11,6 +11,6 @@ We really hope to see your proposals. The deadline to submit is on 14th August 2
 - [https://in.pycon.org/blog/2020/2020-call-for-proposals-announcement.html](https://in.pycon.org/blog/2020/2020-call-for-proposals-announcement.html)
 - [https://in.pycon.org/blog/2020/2020-workshop-cfp-announcement.html](https://in.pycon.org/blog/2020/2020-workshop-cfp-announcement.html)
 
-Thank your for taking the time to read through and hope to see you as a speaker at PyCon India 2020
+Thank your for taking the time to read through and hope to see you as a speaker at PyCon India 2020.
 
 [1] [https://twitter.com/pyconindia/status/1253732245635952643](https://twitter.com/pyconindia/status/1253732245635952643)
