@@ -6,7 +6,7 @@ We hope you are in good health and doing well. This email is regarding PyCon Ind
 
 This year with the current situation [1] We, the conference organizers, are taking this as a unique opportunity to be able to put more efforts into making this year's conference bigger, more inclusive, and much more accessible to our lovely attendees from all over the world in ways more than one. And, we need your expertise in that. We would be glad to see your proposal at our conference. We believe your experience and insights with Python and/or with Python community will be a critical part of making this conference a huge success.
 
-We really hope to see your proposals. The deadline to submit is on 14th August 2020 and we release the schedule by 1st September. Please do reach out to us if you have any questions. If you like to learn more about writing proposals for talks and workshops, you can read one of the blogs below. 
+We really hope to see your proposals. The deadline to submit is 14th August 2020 and the schedule would be released on 1st September. Please do reach out to us if you have any questions. If you like to learn more about writing proposals for talks and workshops, you can read one of the blogs below. 
 
 - [https://in.pycon.org/blog/2020/2020-call-for-proposals-announcement.html](https://in.pycon.org/blog/2020/2020-call-for-proposals-announcement.html)
 - [https://in.pycon.org/blog/2020/2020-workshop-cfp-announcement.html](https://in.pycon.org/blog/2020/2020-workshop-cfp-announcement.html)
