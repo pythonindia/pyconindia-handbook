@@ -1,0 +1,16 @@
+## Day 1
+
+Hello {{ first name}},
+
+Welcome to PyCon India 2020, the premier Python conference in India, organized by the community, for the community.
+
+The conference will be kicking off October 2nd, 12:00 IST (UTC+5:30) with the opening address. Join us for the event on Hopin using <this link>. You can find the updated schedule on the Hopin event page at all times. Don't forget to join our communication platform Zulip with <link> to connect and network with other conference attendees and speakers.
+
+On our first day, we will be having 20 talks, diversity sessions, Birds of Feather sessions, lightning talks, [refusals.py](http://refusals.py/) sessions, and much more. You can read more about the conference in the PyCon India Program Guide at<link>. You can also find your conference badge at <link>, which you can edit as per your liking and show it off to your friends.
+
+Reach out to our Help Desk on <zulip link> or Hopin if you have any questions or want to know more about something. Please make sure you follow the conference <Code of Conduct> to make the conference a great experience for everyone.
+
+Looking forward to meeting you at the conference.
+
+Regards,
+PyCon India Team
