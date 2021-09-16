@@ -6,14 +6,14 @@ Welcome to the PyCon India 2021 Workshops!
 Thank you for choosing to attend our workshops for getting hands-on knowledge about things you've been looking to learn.
 
 The Workshop will be kicking off on Sep 17th, 11:45 IST (UTC+5:30) with the opening address. 
-Join us for the event on Hopin using <magic link>. You can find the schedule on the Hopin event page at all times. Don't forget to join our communication platform [Zulip](https://pyconindia.zulipchat.com/join/ilavx7muukcacac6ftzcfypb/) to connect and network with other workshop attendees and speakers. Get the ice broken by saying hi! in the **#2021/discussions** Zulip stream.
+Join us for the event on Hopin using {{event.link}} . You can find the schedule on the Hopin event page at all times. Don't forget to join our communication platform [Zulip](https://pyconindia.zulipchat.com/join/ilavx7muukcacac6ftzcfypb/) to connect and network with other workshop attendees and speakers. Get the ice broken by saying hi! in the **#2021/discussions** Zulip stream.
 
 We will be having 2 sessions of workshops, with 3 parallel workshops in each session. You are free to join any workshop at any time you feel comfortable. The updated schedule for the workshops will available in the Hopin event, and we will be staring with the first session at 12:00 IST (UTC+5:30).
 
 Here is a list of all the available workshops which you can join:
 
 * [Building Powerful Interactive AI/ML web apps using Streamlit](https://in.pycon.org/cfp/2021/proposals/building-powerful-interactive-aiml-web-apps-using-streamlit~e316x/)  Sasidhar Donaparthi
-* [Getting Kafka-esque with Python] (https://in.pycon.org/cfp/2021/proposals/getting-kafka-esque-with-python~elYRr/) Dipen Chawla, Devesh Bajaj
+* [Getting Kafka-esque with Python](https://in.pycon.org/cfp/2021/proposals/getting-kafka-esque-with-python~elYRr/) Dipen Chawla, Devesh Bajaj
 * [Make your Python applications Kubernetes native!](https://in.pycon.org/cfp/2021/proposals/make-your-python-applications-kubernetes-native~bmZqr/) Nabarun Pal
 * [IndicNLP: Natural Language Processing for Indian Languages using Python] (https://in.pycon.org/cfp/2021/proposals/indicnlp-natural-language-processing-for-indian-languages-using-python~egJZ3/) Gajendra Deshpande
 * [Knowledge graph data modelling with TerminusDB] (https://in.pycon.org/cfp/2021/proposals/knowledge-graph-data-modelling-with-terminusdb~dJ6yP/) Cheuk Ting Ho
@@ -23,7 +23,7 @@ Please make sure you have set up your system correctly with the prerequisites pr
 
 We hope you have a fun learning experience at the workshops. If you have any problems or queries during the workshops, please reach out to the Help Desk on [Zulip](https://pyconindia.zulipchat.com/#narrow/stream/300363-2021.2Fhelpdesk) or Hopin.
 
-Please make sure you follow the conference [Code of Conduct](https://in.pycon.org/2021/coc/) to make the conference a great experience for everyone.
+Please make sure you follow the conference [Code of Conduct](https://in.pycon.org/2021/coc/) to make PyCon India a great experience for everyone.
 
 Regards,
 
